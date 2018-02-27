@@ -1,6 +1,7 @@
 Base Properties 
 ENGINE	UnhealthyDB
 OWL	db/@engine@/UnhealthyDB_OWL.OWL
+PIXEL_UPDATE	true
 RDBMS_INSIGHTS	db/@engine@/insights_database
 SOLR_RELOAD	false
 HIDDEN_DATABASE	false
